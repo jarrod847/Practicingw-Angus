@@ -1,0 +1,13 @@
+C:\Users\Jarrod\Desktop\newC\bin\Debug\netcoreapp3.1\newC.exe
+C:\Users\Jarrod\Desktop\newC\bin\Debug\netcoreapp3.1\newC.deps.json
+C:\Users\Jarrod\Desktop\newC\bin\Debug\netcoreapp3.1\newC.runtimeconfig.json
+C:\Users\Jarrod\Desktop\newC\bin\Debug\netcoreapp3.1\newC.runtimeconfig.dev.json
+C:\Users\Jarrod\Desktop\newC\bin\Debug\netcoreapp3.1\newC.dll
+C:\Users\Jarrod\Desktop\newC\bin\Debug\netcoreapp3.1\newC.pdb
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.csprojAssemblyReference.cache
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.AssemblyInfoInputs.cache
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.AssemblyInfo.cs
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.csproj.CoreCompileInputs.cache
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.dll
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.pdb
+C:\Users\Jarrod\Desktop\newC\obj\Debug\netcoreapp3.1\newC.genruntimeconfig.cache
